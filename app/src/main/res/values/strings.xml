@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">GroupExpenseTracker</string>
+    <string name="date">Date</string>
+    <string name="trip_name">Trip Name</string>
+    <string name="group_size">Group Size</string>
+    <string name="add_trip">ADD TRIP</string>
+    <string name="eg_5">eg. 5</string>
+    <string name="eg_goa">eg. Goa</string>
+    <string name="dd_mm_yyyy">DD/MM/YYYY</string>
 </resources>
